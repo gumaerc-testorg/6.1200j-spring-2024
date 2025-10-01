@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: 03901c99-c017-44aa-a77f-cdb81dc3ce7a
 ---
-These are the recommended lecture readings to accompany the course. All readings are taken from Eric Lehman, Tom Leighton, and Albert Meyer, [*Mathematics for Computer Science* (PDF)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf). The textbook is available under a CC BY-SA license.
+These are the recommended lecture readings to accompany the course. All readings are taken from Eric Lehman, Tom Leighton, and Albert Meyer, {{% resource_link "3520e13d-865b-4e36-86da-c10f092c8395" "*Mathematics for Computer Science* (PDF)" %}}. The textbook is available under a CC BY-SA license.
 
 ## Unit 1: Proofs    
 
