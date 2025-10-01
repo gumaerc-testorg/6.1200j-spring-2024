@@ -13,7 +13,7 @@ Recitation: 2 sessions/week; 1 hour/session
 
 ## Prerequisites
 
-The only prerequisite is [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/). If you have already taken *18.200 Principles of Discrete Applied Mathematics* or [*6.1220 Design and Analysis of Algorithms*](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (formerly 6.046), then you probably should not take 6.1200.
+The only prerequisite is {{% resource_link "adf5e525-e7a2-4e85-ba3a-e024150ee23a" "*18.01 Single Variable Calculus*" %}}. If you have already taken *18.200 Principles of Discrete Applied Mathematics* or {{% resource_link "8175ddf6-be0e-464e-87c2-a5e767b6d1c2" "*6.1220 Design and Analysis of Algorithms*" %}} (formerly 6.046), then you probably should not take 6.1200.
 
 ## Course Description
 
@@ -21,7 +21,7 @@ This course covers elementary discrete mathematics for science and engineering, 
 
 ## Textbook
 
-The text for this course is Lehman, Eric, Thomson Leighton, and Albert Meyer. [*Mathematics for Computer Science* (PDF)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)*.* The textbook is available under a CC BY-SA license.
+The text for this course is Lehman, Eric, Thomson Leighton, and Albert Meyer. {{% resource_link "3520e13d-865b-4e36-86da-c10f092c8395" "*Mathematics for Computer Science* (PDF)" %}}*.* The textbook is available under a CC BY-SA license.
 
 ## Grading
 
